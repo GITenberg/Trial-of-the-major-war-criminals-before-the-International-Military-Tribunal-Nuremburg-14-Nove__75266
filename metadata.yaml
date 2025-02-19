@@ -1,0 +1,42 @@
+_repo: Trial-of-the-major-war-criminals-before-the-International-Military-Tribunal-Nuremburg-14-Nove__75266
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    aliases:
+    - Verschillende
+    - Various, Various
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: 'v. 1. Official documents; v. 2-22. Proceedings; v. 23. Chronological
+  index, subject index; v. 24. Document index, name index, and errata; v. 25-42. Documents
+  and other material in evidence.
+
+  Trial against H.W. Göring, R. Hess, J. von Ribbentrop, R. Ley, W. Keitel, E. Kaltenbrunner,
+  A. Rosenberg, H. Frank, W. Frick, J. Streicher, W. Funk, H. Schacht, G. Krupp von
+  Bohlen und Halbach, K. Dönitz, E. Raeder, B. von Schirach, F. Sauckel, A. Jodl,
+  M. Bormann, F. von Papen, A. Seyss-Inquart, A. Speer, C. von Neurath, and H. Fritzsche,
+  individually and as members of any groups or organizations to which they belonged.'
+gutenberg_issued: '2025-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75266'
+language: en
+pgterms:marc905: 20150512043655none
+pgterms:marc906: '1947'
+pgterms:marc907: DE
+production_note: John Routh PM, Cindy Beyer, and the online Distributed Proofreaders
+  Canada team at http://www.pgdpcanada.net
+publication_note: '  $aNuremberg :$bUnknown, $c1947.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Göring, Hermann, 1893-1946 -- Trials, litigation, etc.'
+- !lcsh 'Nuremberg Trial of Major German War Criminals, Nuremberg, Germany, 1945-1946'
+- !lcsh 'War crime trials -- Germany -- Nuremberg'
+- !lcc 'KZ'
+- GITenberg
+title: Trial of the major war criminals before the International Military Tribunal,
+  Nuremburg, 14 November 1945-1 October 1946, volume 18
+url: http://www.gutenberg.org/ebooks/75266
