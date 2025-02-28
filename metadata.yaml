@@ -1,5 +1,8 @@
 _repo: Trial-of-the-major-war-criminals-before-the-International-Military-Tribunal-Nuremburg-14-Nove__75266
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75266-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -17,6 +20,8 @@ description: 'v. 1. Official documents; v. 2-22. Proceedings; v. 23. Chronologic
   Bohlen und Halbach, K. Dönitz, E. Raeder, B. von Schirach, F. Sauckel, A. Jodl,
   M. Bormann, F. von Papen, A. Seyss-Inquart, A. Speer, C. von Neurath, and H. Fritzsche,
   individually and as members of any groups or organizations to which they belonged.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75266#Trial-of-the-major-war-criminals-before-the-International-Military-Tribunal-Nuremburg-14-Nove_
 gutenberg_issued: '2025-02-01'
 gutenberg_type: Text
 identifiers:
